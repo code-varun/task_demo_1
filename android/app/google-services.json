@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "501985270921",
+    "project_id": "alemenotask",
+    "storage_bucket": "alemenotask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501985270921:android:ca787e3a716bbd36637a58",
+        "android_client_info": {
+          "package_name": "com.example.alemeno_tesk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501985270921-44ub6hu6qdrfctdku4iukd48rg86cin1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnm07xxZAJkAZH2XWWBMg0eCzDftJSp5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501985270921-44ub6hu6qdrfctdku4iukd48rg86cin1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
